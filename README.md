@@ -34,7 +34,7 @@ O desafio consiste em efetuar um processamento de dados utilizando o produto Dat
 
 ### Descrição das resposta do Desafio
 
-bucket-name: gs://andersonbispos-dio-bucket/
+bucket-name: gs://desafio-dataproc1a/
 
 [Arquivos Originais do Desafio](https://github.com/diegosn7/dio-projeto-dataproc/tree/master/desafio)
 
